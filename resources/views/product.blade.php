@@ -128,7 +128,7 @@
 						<li><a href="index.html">Trang chủ</a></li>
 						<li><a href="#">Sản phẩm</a>
 							<ul class="sub-menu">
-								<li><a href="product_type.html">Sản phẩm 1</a></li>
+								<li><a href="product_type.html">Đầm</a></li>
 								<li><a href="product_type.html">Sản phẩm 2</a></li>
 								<li><a href="product_type.html">Sản phẩm 4</a></li>
 							</ul>
